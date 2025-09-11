@@ -18,7 +18,7 @@
 **Summary of Expertise:**
 A junior executive and veteran Naval Submarine Officer with over 14 years of progressive leadership roles in operations research, military operations, engineering, requirements generation, and budgeting.  Provided detailed analysis and assessment of complex problems to senior executives on DOW strategic programs, operations, acquisitions, and budgets. Utilized a strong leadership, engineering, and analytic background and education to successfully manage and supervise complex problems and programs. 
 
-**Professional Accomplishments:**
+**Professional Accomplishments:**  
 ***Submarine Executive Officer*** – Served for two years as the 2nd in command of a nuclear- powered ballistic missile submarine with a crew of 150 members.  Oversaw the training, day-to-day operations, maintenance, operational planning, and tactical employment of the submarine and crew.    
 
 ***Certified Naval Nuclear Engineer*** – Over 10 years as a US Navy certified nuclear engineer. Oversaw operational schedules, major maintenance, and testing evolutions that required extremely stringent technical compliance. 
