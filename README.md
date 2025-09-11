@@ -26,4 +26,4 @@ A junior executive and veteran Naval Submarine Officer with over 14 years of pro
 ## Projects
 
 ### Streamlit App for Generating QR Codes
-[Git Repo](https://github.com/mdsmith44/py_qrcode_gen)
+[Git Repo](https://github.com/anthompson-navy)
