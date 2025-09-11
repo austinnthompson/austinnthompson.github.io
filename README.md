@@ -24,6 +24,4 @@ A junior executive and veteran Naval Submarine Officer with over 14 years of pro
 ***Certified Naval Nuclear Engineer*** – Over 10 years as a US Navy certified nuclear engineer. Oversaw operational schedules, major maintenance, and testing evolutions that required extremely stringent technical compliance. 
 
 ## Projects
-
-### Streamlit App for Generating QR Codes
 [Git Repo](https://github.com/austinnthompson)
