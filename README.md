@@ -1,4 +1,4 @@
-# Austin Nash Thomspon
+# Austin Nash Thompson
 
 ### US Navy Submarine & Operations Research Officer
 
