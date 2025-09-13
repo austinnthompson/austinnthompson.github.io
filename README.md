@@ -18,10 +18,26 @@
 - **Phone**: [281-468-2656](tel:+12814682656)
 
 ### Education
-| Degree                          | Institution                           | Location         | Year |
-|---------------------------------|---------------------------------------|------------------|------|
-| MS, Systems Engineering         | Naval Postgraduate School            | Monterey, CA     | 2017 |
-| BS, Maritime Systems Engineering | Texas A&M University at Galveston     | Galveston, TX    | 2010 |
+<table border="1">
+  <tr>
+    <th>Degree</th>
+    <th>Institution</th>
+    <th>Location</th>
+    <th>Year</th>
+  </tr>
+  <tr>
+    <td>MS, Systems Engineering</td>
+    <td>Naval Postgraduate School</td>
+    <td>Monterey, CA</td>
+    <td>2017</td>
+  </tr>
+  <tr>
+    <td>BS, Maritime Systems Engineering</td>
+    <td>Texas A&M University at Galveston</td>
+    <td>Galveston, TX</td>
+    <td>2010</td>
+  </tr>
+</table>
 
 ### Work Experience
 #### Summary of Expertise
