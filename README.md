@@ -11,8 +11,8 @@
 - **Phone:** 281-468-2656
 
 ## Education
-MS, Systems Engineering | Naval Post Graduate School, Monterey, CA (_2017_)  
-BS, Maritime Systems Engineering | Texas A&M University at Galveston, TX  (_2010_)
+- MS, Systems Engineering | Naval Post Graduate School, Monterey, CA (_2017_)  
+- BS, Maritime Systems Engineering | Texas A&M University at Galveston, TX  (_2010_)
 
 ## Work Experience
 **Summary of Expertise:**
