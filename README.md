@@ -18,6 +18,7 @@
 - **Phone**: [281-468-2656](tel:+12814682656)
 
 ### Education
+
 <table border="1">
   <tr>
     <th>Degree</th>
